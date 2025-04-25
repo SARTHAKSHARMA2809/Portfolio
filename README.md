@@ -34,7 +34,47 @@ Hi, I'm **Sarthak Sharma**, a passionate Frontend Developer with a keen interest
 
 ---
 
-## 🖼️ Screenshots (Coming Soon)
+
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images, icons, etc.
+
+---
+
+Would you like me to personalize it with your name, GitHub username, email, etc.?
+
+Feel free to reach out if you have any suggestions or collaboration ideas!
+
+Name: Sarthak Sharma
+
+Email: sarthaksharma28904@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/sarthak-sharma-9a07082a3/
+
+## 🖼️ Screenshots
 ![20250425_191136](https://github.com/user-attachments/assets/bcf357bb-943e-483b-a234-9e180bfbe183)
+
+
+## 🚀 Getting Started
+
+Follow these steps to clone and run the portfolio on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/portfolio.git
+
+# Navigate into the project folder
+cd portfolio
+
+# Open the index.html file in your browser
+
+---
+
+
+
 
 
